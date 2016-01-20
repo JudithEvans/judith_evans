@@ -5,6 +5,8 @@
 # import lxml.html
 
 print 'hello my name is jude'
+urltoscrape="http://www.bbc.co.uk/news"
+print urltoscrape
 #
 # # Read in a page
 # html = scraperwiki.scrape("http://foo.com")
