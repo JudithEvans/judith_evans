@@ -7,6 +7,18 @@
 print 'hello my name is jude'
 urltoscrape="http://www.bbc.co.uk/news"
 print urltoscrape
+myage=35
+print urltoscrape=urltoscrape+"p1"
+print urltoscrape
+myage=myage+1
+print myage
+urltoscrape="http://telegraph.co.uk"
+listylist=["p1","p2", p3"]
+for egg in listylist:
+  print egg
+  fullurl=urltoscrape+egg
+  print fullurl
+
 #
 # # Read in a page
 # html = scraperwiki.scrape("http://foo.com")
