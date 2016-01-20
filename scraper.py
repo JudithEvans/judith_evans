@@ -3,6 +3,8 @@
 
 # import scraperwiki
 # import lxml.html
+
+print 'hello my name is jude'
 #
 # # Read in a page
 # html = scraperwiki.scrape("http://foo.com")
