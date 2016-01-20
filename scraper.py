@@ -8,7 +8,7 @@ print 'hello my name is jude'
 urltoscrape="http://www.bbc.co.uk/news"
 print urltoscrape
 myage=35
-print urltoscrape = urltoscrape+"p1"
+urltoscrape = urltoscrape+"p1"
 print urltoscrape
 myage=myage+1
 print myage
