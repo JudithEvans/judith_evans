@@ -13,10 +13,10 @@ print urltoscrape
 myage=myage+1
 print myage
 urltoscrape="http://telegraph.co.uk"
-listylist=["p1","p2", p3"]
+listylist=["p1","p2", "p3"]
 for egg in listylist:
   print egg
-  fullurl=urltoscrape+egg
+  fullurl = urltoscrape+egg
   print fullurl
 
 #
